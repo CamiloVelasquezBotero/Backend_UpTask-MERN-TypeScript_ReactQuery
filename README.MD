@@ -34,10 +34,10 @@ Este proyecto usa un frontend creado en React, el enlace a este repositorio del 
   - React-Toastify
   - Mejora en performance renderizando componentes especificos
 
-### Ir a Repositorio Frontend: https://github.com/CamiloVelasquezBotero/Frontend_UpTask-MERN-TypeScript_ReactQuery
+#### Ir a Repositorio Frontend: https://github.com/CamiloVelasquezBotero/Frontend_UpTask-MERN-TypeScript_ReactQuery
 
-## PREVIEW: https://up-task-mern-type-script-react-quer.vercel.app
-## Cuenta de Prueba:  User: correo@correo.com | Password: password
+#### PREVIEW: https://up-task-mern-type-script-react-quer.vercel.app
+#### Cuenta de Prueba: User: correo@correo.com | Password: password
 
-## Nota del Preview: 
+#### Nota del Preview: 
 La API esta  en un host de hobbie, por lo cual la primera peticion, puede durar alrededor de 50 seg mientras se habilita
